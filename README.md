@@ -28,14 +28,14 @@
 [![Django](https://img.shields.io/badge/Django-4.0-brightgreen?style=flat)](https://djangoproject.com)
 [![DRF](https://img.shields.io/badge/DRF-3.14-red?style=flat)](https://www.django-rest-framework.org)
 
-REST API для получения статистики CS2 матчей с парсингом данных HLTV.org  
+### REST API для получения статистики CS2 матчей с парсингом данных HLTV.org 
 **Особенности:**  
 ✔ Парсинг данных с динамических страниц (Selenium)  
 ✔ Документированные эндпоинты
 ✔ Экспорт данных о матчах в csv 
 ---
 
-### **Real Estate Price Predictor**  | [Код](https://github.com/idudko222/ForecastingCompl)
+### Real Estate Price Predictor  | [Код](https://github.com/idudko222/ForecastingCompl)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 
