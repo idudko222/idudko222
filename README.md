@@ -26,9 +26,9 @@ REST API для получения статистики CS2 матчей с HLTV
 https://github.com/idudko222/htlv
 
 **Что реализовано:**  
-— парсинг динамических страниц (Selenium)  
-— REST API с документированными эндпоинтами  
-— экспорт данных в CSV  
+- парсинг динамических страниц (Selenium)  
+- REST API с документированными эндпоинтами
+- экспорт данных в CSV  
 
 **Стек:** Python, Django, DRF (Так же есть переписанная версия на FastAPI)
 
@@ -45,6 +45,7 @@ https://github.com/idudko222/htlv
 - Подготовка для ML-анализа тональности
 
 **Стек:** Python, FastAPI, BS4, SQLAlchemy, Selenium
+
 ---
 
 ### Real Estate Price Predictor  
