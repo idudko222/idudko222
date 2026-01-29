@@ -1,73 +1,67 @@
-# 💫 About Me:
-### Привет! 👋  
-**Python Backend Developer** (Django/DRF) с fullstack-навыками  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+## About me
 
-Пишу чистый, поддерживаемый код (стараюсь) и верю в силу пет-проектов для профессионального роста.  
-Имею коммерческий опыт разработки веб-приложений под реальные бизнес-задачи.
+Python Backend Developer (Django / Fast API).
 
-🔭 **Сейчас:**  
-- 🚀 Разрабатываю пет-проекты в командном формате  
-- 🔍 Углубляю знания в Django REST Framework и оптимизации запросов  
+Работаю с REST API, базами данных и бизнес-логикой.  
+Есть коммерческий опыт разработки веб-приложений под реальные задачи.
 
-🌱 **Мой стек:**  
-`Python` `Django` `DRF` `PostgreSQL` `Selenium` `Pandas` `scikit-learn`  
+**Основной стек:**  
+Python, Django, FastAPI, PostgreSQL  
+Дополнительно: Selenium, Pandas, scikit-learn
 
-📬 **Контакты:**  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/gmrco1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:idudko222@gmail.com)
+**Сейчас:**  
+— развиваю pet-проекты  
+— углубляюсь в FastAPI и ML/DS
+
+Контакты:  
+Telegram — https://t.me/gmrco1  
+Email — idudko222@gmail.com
 
 ---
 
-## 🛠️ Projects
+## Projects
 
-### **HLTV Stats API** | [Код](https://github.com/idudko222/htlv)
-[![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=flat)](https://python.org)
-[![Django](https://img.shields.io/badge/Django-4.0-brightgreen?style=flat)](https://djangoproject.com)
-[![DRF](https://img.shields.io/badge/DRF-3.14-red?style=flat)](https://www.django-rest-framework.org)
+### HLTV Stats API  
+REST API для получения статистики CS2 матчей с HLTV.org  
+https://github.com/idudko222/htlv
 
-### REST API для получения статистики CS2 матчей с парсингом данных HLTV.org 
-**Особенности:**  
-✔ Парсинг данных с динамических страниц (Selenium)  
-✔ Документированные эндпоинты
-✔ Экспорт данных о матчах в csv 
+**Что реализовано:**  
+— парсинг динамических страниц (Selenium)  
+— REST API с документированными эндпоинтами  
+— экспорт данных в CSV  
+
+**Стек:** Python, Django, DRF (Так же есть переписанная версия на FastAPI)
 
 ---
 
-### To-Do Bot. Telegram-бот для управления задачами с напоминаниями о дедлайнах. Помогает организовать дела и никогда не пропускать важные сроки. | [Код](https://github.com/idudko222/TG.botv1/tree/master)
-- 📝 **Создание задач** с названием, описанием и дедлайном
-- 🔔 **Уведомления** за 5 минут и 1 минуту до дедлайна
-- 🗑️ **Корзина** для завершенных задач
-- ✏️ **Редактирование** всех параметров задачи
-- 📊 **Просмотр задач** в удобном формате:
-  - Активные задачи
-  - Задачи в корзине
+### Парсер отзывов с Ozon + REST API
+Проект для автоматизированного сбора отзывов с маркетплейса Ozon с возможностью дальнейшего анализа тональности.
+
+**Функциональность:**  
+- Сбор товаров с каталога Ozon
+- Парсинг отзывов с детальных страниц товаров
+- Сохранение данных в PostgreSQL
+- REST API для доступа к данным
+- Подготовка для ML-анализа тональности
+
+**Стек:** Python, FastAPI, BS4, SQLAlchemy, Selenium
 ---
 
-### Real Estate Price Predictor  | [Код](https://github.com/idudko222/ForecastingCompl)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-
+### Real Estate Price Predictor  
 Веб-приложение для прогнозирования стоимости недвижимости  
-**Функционал:**  
-✔ Прогнозирование цены по параметрам объекта
-✔ Сохранение истории запросов для пользователей
-✔  Генерация PDF-отчетов
-✔  Аутентификация и личный кабинет
+https://github.com/idudko222/ForecastingCompl
+
+**Функциональность:**  
+— ML-модель для прогнозирования цены  
+— сохранение истории запросов  
+— PDF-отчёты  
+— аутентификация пользователей  
+
+**Стек:** Python, Pandas, scikit-learn, Django
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idudko222&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idudko222&layout=compact&theme=radical" />
-</div>
+## GitHub stats
 
----
-
-⚡ **Когда не пишу код:**  
-📚 Читаю художественную литературу (иногда и не художественную)
-🏈 Хочу в зал, бегаю с товарищем по вечерам
-🏙️ В выходные люблю гулять по городу в компании
+![Stats](https://github-readme-stats.vercel.app/api?username=idudko222&show_icons=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idudko222&layout=compact)
